@@ -1,0 +1,4 @@
+data_source_url: https://restcountries.eu/rest/v2/all
+firebase_db_url: https://#YOUR_FIREBASE_PROJECT_NAME#.firebaseio.com/
+firebase_db_ui: /countries
+
